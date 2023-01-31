@@ -1,0 +1,23 @@
+@charset "UTF-8"; 
+.myContainer_Style{
+  background-color:#0095e6;
+  padding-bottom: 50px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.myContent_Style{
+  background-color: #FFF;
+  padding-bottom: 50px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.myTitleH1{
+  font-weight: 900;
+  font-size: 30px;
+}
+.myAvatar{
+ margin-bottom: 5px;
+ border-radius: 4px;
+ color:#004165;
+}
